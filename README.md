@@ -1,4 +1,4 @@
-# Ratecounter
+# Counter
 
 ## Description
 
